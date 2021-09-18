@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lotteryNumber/static/css/main.6af591ec.chunk.css",
-    "main.js": "/lotteryNumber/static/js/main.67732984.chunk.js",
-    "main.js.map": "/lotteryNumber/static/js/main.67732984.chunk.js.map",
+    "main.js": "/lotteryNumber/static/js/main.6e8e105e.chunk.js",
+    "main.js.map": "/lotteryNumber/static/js/main.6e8e105e.chunk.js.map",
     "runtime-main.js": "/lotteryNumber/static/js/runtime-main.4b184364.js",
     "runtime-main.js.map": "/lotteryNumber/static/js/runtime-main.4b184364.js.map",
     "static/js/2.a536b118.chunk.js": "/lotteryNumber/static/js/2.a536b118.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.4b184364.js",
     "static/js/2.a536b118.chunk.js",
     "static/css/main.6af591ec.chunk.css",
-    "static/js/main.67732984.chunk.js"
+    "static/js/main.6e8e105e.chunk.js"
   ]
 }
