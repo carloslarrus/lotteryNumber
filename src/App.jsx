@@ -68,9 +68,11 @@ function App() {
          
       let winningMessage = `You won the lottery`
       let losingMessage = `Your number is not awarded. Next time, you will have more luck!!`
-      if(randomsWinning == buyNumber){
+      if(JSON.stringify(randomsWinning) == JSON.stringify(buyNumber)){
         console.log('winning', randomsWinning);
         console.log('buyNumber',buyNumber);
+        console.log(JSON.stringify(randomsWinning) == JSON.stringify(buyNumber));
+        
         setWinner('The winner number is :')
         setMessage(winningMessage)
         setBuyMessage('')
@@ -80,6 +82,7 @@ function App() {
         console.log('buyNumber',buyNumber);
         setMessage(losingMessage)
         setBuyMessage('')
+        console.log(JSON.stringify(randomsWinning) == JSON.stringify(buyNumber));
       }
     }
 
